@@ -1,0 +1,238 @@
+[
+  {
+    "_id": "post1",
+    "imageUrl": "https://placekitten.com/805/605",
+    "caption": "Eiffel Tower views! 🗼",
+    "likes": [
+      {
+        "_id": "8f1a2b33-9bb3-48b1-89c7-786fa2a0cde1",
+        "username": "sam_jackson"
+      }
+    ],
+    "comments": [
+      {
+        "txt": "so cute !",
+        "_id": "NWqGK",
+        "by": {
+          "_id": "8f1a2b33-9bb3-48b1-89c7-786fa2a0cde1",
+          "username": "sam_jackson",
+          "profilePicture": "https://randomuser.me/api/portraits/men/3.jpg"
+        }
+      },
+      {
+        "txt": "love it",
+        "_id": "TArst",
+        "by": {
+          "_id": "8f1a2b33-9bb3-48b1-89c7-786fa2a0cde1",
+          "username": "sam_jackson",
+          "profilePicture": "https://randomuser.me/api/portraits/men/3.jpg"
+        }
+      }
+    ],
+    "owner": {
+      "username": "lily_brown",
+      "imgUrl": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    "createdAt": "2024-02-15T10:30:00Z"
+  },
+  {
+    "_id": "post2",
+    "imageUrl": "https://placekitten.com/806/606",
+    "caption": "Café vibes in Montmartre! ☕️",
+    "likes": [
+      {
+        "_id": "8f1a2b33-9bb3-48b1-89c7-786fa2a0cde1",
+        "username": "sam_jackson"
+      }
+    ],
+    "comments": [
+      {
+        "txt": "sdsd",
+        "_id": "mbmAk",
+        "by": {
+          "_id": "8f1a2b33-9bb3-48b1-89c7-786fa2a0cde1",
+          "username": "sam_jackson",
+          "profilePicture": "https://randomuser.me/api/portraits/men/3.jpg"
+        }
+      },
+      {
+        "txt": "dfdfdfd",
+        "_id": "cxRHw",
+        "by": {
+          "_id": "8f1a2b33-9bb3-48b1-89c7-786fa2a0cde1",
+          "username": "sam_jackson",
+          "profilePicture": "https://randomuser.me/api/portraits/men/3.jpg"
+        }
+      },
+      {
+        "txt": "cute!",
+        "_id": "WyxLD",
+        "by": {
+          "_id": "8f1a2b33-9bb3-48b1-89c7-786fa2a0cde1",
+          "username": "sam_jackson",
+          "profilePicture": "https://randomuser.me/api/portraits/men/3.jpg"
+        }
+      },
+      {
+        "txt": "i love it ",
+        "_id": "xVPU4",
+        "by": {
+          "_id": "8f1a2b33-9bb3-48b1-89c7-786fa2a0cde1",
+          "username": "sam_jackson",
+          "profilePicture": "https://randomuser.me/api/portraits/men/3.jpg"
+        }
+      }
+    ],
+    "owner": {
+      "username": "lily_brown",
+      "imgUrl": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    "createdAt": "2024-02-15T10:50:00Z"
+  },
+  {
+    "_id": "post3",
+    "imageUrl": "https://placekitten.com/803/603",
+    "caption": "City skyline at night! 🌃",
+    "likes": [],
+    "comments": [],
+    "owner": {
+      "username": "sam_jackson",
+      "imgUrl": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    "createdAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "_id": "post4",
+    "imageUrl": "https://placekitten.com/804/604",
+    "caption": "Autumn vibes in Central Park! 🍁",
+    "likes": [
+      {
+        "_id": "a16c7782-4d7b-4f76-a46f-d9ea0f0d48b5",
+        "username": "lily_brown"
+      }
+    ],
+    "comments": [
+      {
+        "txt": "Nice to meet you!",
+        "_id": "8Ssjv",
+        "by": {
+          "_id": "a16c7782-4d7b-4f76-a46f-d9ea0f0d48b5",
+          "username": "lily_brown",
+          "profilePicture": "https://randomuser.me/api/portraits/women/4.jpg"
+        }
+      }
+    ],
+    "owner": {
+      "username": "sam_jackson",
+      "imgUrl": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    "createdAt": "2024-02-13T10:30:00Z"
+  },
+  {
+    "_id": "post5",
+    "imageUrl": "https://placekitten.com/800/600",
+    "caption": "Beautiful sunset! 🌅",
+    "likes": [],
+    "comments": [],
+    "owner": {
+      "username": "alice_smith",
+      "imgUrl": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    "createdAt": "2023-02-15T10:30:00Z"
+  },
+  {
+    "_id": "post6",
+    "imageUrl": "https://placekitten.com/801/601",
+    "caption": "Coffee time! ☕️",
+    "likes": [
+      {
+        "_id": "8f1a2b33-9bb3-48b1-89c7-786fa2a0cde1",
+        "username": "sam_jackson"
+      },
+      {
+        "_id": "a16c7782-4d7b-4f76-a46f-d9ea0f0d48b5",
+        "username": "lily_brown"
+      }
+    ],
+    "comments": [],
+    "owner": {
+      "username": "alice_smith",
+      "imgUrl": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    "createdAt": "2024-02-15T08:30:00Z"
+  },
+  {
+    "_id": "post7",
+    "imageUrl": "https://placekitten.com/802/602",
+    "caption": "Exploring new places! 🗺️",
+    "likes": [
+      {
+        "_id": "8f1a2b33-9bb3-48b1-89c7-786fa2a0cde1",
+        "username": "sam_jackson"
+      }
+    ],
+    "comments": [
+      {
+        "txt": "asdsadf",
+        "_id": "yjKwZ",
+        "by": {
+          "_id": "8f1a2b33-9bb3-48b1-89c7-786fa2a0cde1",
+          "username": "sam_jackson",
+          "profilePicture": "https://randomuser.me/api/portraits/men/3.jpg"
+        }
+      },
+      {
+        "txt": "asdsadf",
+        "_id": "ocvuq",
+        "by": {
+          "_id": "8f1a2b33-9bb3-48b1-89c7-786fa2a0cde1",
+          "username": "sam_jackson",
+          "profilePicture": "https://randomuser.me/api/portraits/men/3.jpg"
+        }
+      },
+      {
+        "txt": "cute!",
+        "_id": "ReXi3",
+        "by": {
+          "_id": "8f1a2b33-9bb3-48b1-89c7-786fa2a0cde1",
+          "username": "sam_jackson",
+          "profilePicture": "https://randomuser.me/api/portraits/men/3.jpg"
+        }
+      }
+    ],
+    "owner": {
+      "username": "alice_smith",
+      "imgUrl": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    "createdAt": "2024-02-11T10:30:00Z"
+  },
+  {
+    "_id": "post8",
+    "imageUrl": "https://placekitten.com/807/607",
+    "caption": "Morning workout! 💪",
+    "likes": [],
+    "comments": [],
+    "owner": {
+      "username": "chris_wood",
+      "imgUrl": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    "createdAt": "2024-02-15T10:09:00Z"
+  },
+  {
+    "_id": "post9",
+    "imageUrl": "https://placekitten.com/808/608",
+    "caption": "Healthy meal prep! 🥗",
+    "likes": [
+      {
+        "_id": "8f1a2b33-9bb3-48b1-89c7-786fa2a0cde1",
+        "username": "sam_jackson"
+      }
+    ],
+    "comments": [],
+    "owner": {
+      "username": "chris_wood",
+      "imgUrl": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    "createdAt": "2024-01-27T10:30:00Z"
+  }
+]

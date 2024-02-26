@@ -1,0 +1,157 @@
+[
+    {
+        "id": "2d5a4e63-076f-45db-a39e-85994a11a33c",
+        "username": "alice_smith",
+        "fullName": "Alice Smith",
+        "bio": "Web developer and nature lover.",
+        "profilePicture": "https://randomuser.me/api/portraits/women/2.jpg",
+        "followers": 12000,
+        "following": 200,
+        "login": {
+            "email": "alice.smith@example.com",
+            "password": "securepass987"
+        },
+        "location": {
+            "city": "San Francisco",
+            "country": "United States",
+            "coordinates": {
+                "latitude": 37.7749,
+                "longitude": -122.4194
+            }
+        },
+        "posts": [
+            {
+                "id": "post1",
+                "imageUrl": "https://placekitten.com/800/600",
+                "caption": "Beautiful sunset! 🌅",
+                "likes": 1200,
+                "comments": 50
+            },
+            {
+                "id": "post2",
+                "imageUrl": "https://placekitten.com/801/601",
+                "caption": "Coffee time! ☕️",
+                "likes": 800,
+                "comments": 30
+            },
+            {
+                "id": "post3",
+                "imageUrl": "https://placekitten.com/802/602",
+                "caption": "Exploring new places! 🗺️",
+                "likes": 1500,
+                "comments": 60
+            }
+        ]
+    },
+    {
+        "id": "8f1a2b33-9bb3-48b1-89c7-786fa2a0cde1",
+        "username": "sam_jackson",
+        "fullName": "Sam Jackson",
+        "bio": "Photographer capturing moments.",
+        "profilePicture": "https://randomuser.me/api/portraits/men/3.jpg",
+        "followers": 8000,
+        "following": 150,
+        "login": {
+            "email": "sam.jackson@example.com",
+            "password": "myp@ssword123"
+        },
+        "location": {
+            "city": "New York",
+            "country": "United States",
+            "coordinates": {
+                "latitude": 40.7128,
+                "longitude": -74.0060
+            }
+        },
+        "posts": [
+            {
+                "id": "post1",
+                "imageUrl": "https://placekitten.com/803/603",
+                "caption": "City skyline at night! 🌃",
+                "likes": 1200,
+                "comments": 40
+            },
+            {
+                "id": "post2",
+                "imageUrl": "https://placekitten.com/804/604",
+                "caption": "Autumn vibes in Central Park! 🍁",
+                "likes": 900,
+                "comments": 25
+            }
+        ]
+    },
+    {
+        "id": "a16c7782-4d7b-4f76-a46f-d9ea0f0d48b5",
+        "username": "lily_brown",
+        "fullName": "Lily Brown",
+        "bio": "Travel enthusiast exploring the world.",
+        "profilePicture": "https://randomuser.me/api/portraits/women/4.jpg",
+        "followers": 15000,
+        "following": 300,
+        "login": {
+            "email": "lily.brown@example.com",
+            "password": "p@ssLily"
+        },
+        "location": {
+            "city": "Paris",
+            "country": "France",
+            "coordinates": {
+                "latitude": 48.8566,
+                "longitude": 2.3522
+            }
+        },
+        "posts": [
+            {
+                "id": "post1",
+                "imageUrl": "https://placekitten.com/805/605",
+                "caption": "Eiffel Tower views! 🗼",
+                "likes": 2000,
+                "comments": 80
+            },
+            {
+                "id": "post2",
+                "imageUrl": "https://placekitten.com/806/606",
+                "caption": "Café vibes in Montmartre! ☕️",
+                "likes": 1200,
+                "comments": 50
+            }
+        ]
+    },
+    {
+        "id": "6c52afab-8b72-4b4c-af8b-bf1e17b3e8ef",
+        "username": "chris_wood",
+        "fullName": "Chris Wood",
+        "bio": "Fitness enthusiast and health advocate.",
+        "profilePicture": "https://randomuser.me/api/portraits/men/5.jpg",
+        "followers": 5000,
+        "following": 100,
+        "login": {
+            "email": "chris.wood@example.com",
+            "password": "fitlife2022"
+        },
+        "location": {
+            "city": "Los Angeles",
+            "country": "United States",
+            "coordinates": {
+                "latitude": 34.0522,
+                "longitude": -118.2437
+            }
+        },
+        "posts": [
+            {
+                "id": "post1",
+                "imageUrl": "https://placekitten.com/807/607",
+                "caption": "Morning workout! 💪",
+                "likes": 800,
+                "comments": 30
+            },
+            {
+                "id": "post2",
+                "imageUrl": "https://placekitten.com/808/608",
+                "caption": "Healthy meal prep! 🥗",
+                "likes": 600,
+                "comments": 20
+            }
+        ]
+    }
+]

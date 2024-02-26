@@ -1,0 +1,160 @@
+[
+  {
+    "_id": "2d5a4e63-076f-45db-a39e-85994a11a33c",
+    "username": "alice_smith",
+    "fullName": "Alice Smith",
+    "bio": "Web developer and nature lover.",
+    "profilePicture": "https://randomuser.me/api/portraits/women/2.jpg",
+    "followers": [
+      {
+        "_id": "8f1a2b33-9bb3-48b1-89c7-786fa2a0cde1",
+        "username": "sam_jackson",
+        "profilePicture": "https://randomuser.me/api/portraits/women/2.jpg"
+      },
+      {
+        "_id": "a16c7782-4d7b-4f76-a46f-d9ea0f0d48b5",
+        "username": "lily_brown",
+        "profilePicture": "https://randomuser.me/api/portraits/women/2.jpg"
+      }
+    ],
+    "following": [],
+    "login": {
+      "email": "alice.smith@example.com",
+      "password": "securepass987"
+    },
+    "location": {
+      "city": "San Francisco",
+      "country": "United States",
+      "coordinates": {
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      }
+    }
+  },
+  {
+    "_id": "8f1a2b33-9bb3-48b1-89c7-786fa2a0cde1",
+    "username": "sam_jackson",
+    "fullName": "Sam Jackson",
+    "bio": "Photographer capturing moments.",
+    "profilePicture": "https://randomuser.me/api/portraits/men/3.jpg",
+    "followers": [
+      {
+        "_id": "a16c7782-4d7b-4f76-a46f-d9ea0f0d48b5",
+        "username": "lily_brown",
+        "profilePicture": "https://randomuser.me/api/portraits/men/3.jpg"
+      }
+    ],
+    "following": [
+      {
+        "_id": "2d5a4e63-076f-45db-a39e-85994a11a33c",
+        "username": "alice_smith",
+        "profilePicture": "https://randomuser.me/api/portraits/women/2.jpg"
+      },
+      {
+        "_id": "a16c7782-4d7b-4f76-a46f-d9ea0f0d48b5",
+        "username": "lily_brown",
+        "profilePicture": "https://randomuser.me/api/portraits/women/4.jpg"
+      }
+    ],
+    "login": {
+      "email": "sam.jackson@example.com",
+      "password": "myp@ssword123"
+    },
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "coordinates": {
+        "latitude": 40.7128,
+        "longitude": -74.006
+      }
+    }
+  },
+  {
+    "_id": "a16c7782-4d7b-4f76-a46f-d9ea0f0d48b5",
+    "username": "lily_brown",
+    "fullName": "Lily Brown",
+    "bio": "Travel enthusiast exploring the world.",
+    "profilePicture": "https://randomuser.me/api/portraits/women/4.jpg",
+    "followers": [
+      {
+        "_id": "8f1a2b33-9bb3-48b1-89c7-786fa2a0cde1",
+        "username": "sam_jackson",
+        "profilePicture": "https://randomuser.me/api/portraits/women/4.jpg"
+      }
+    ],
+    "following": [
+      {
+        "_id": "8f1a2b33-9bb3-48b1-89c7-786fa2a0cde1",
+        "username": "sam_jackson",
+        "profilePicture": "https://randomuser.me/api/portraits/men/3.jpg"
+      },
+      {
+        "_id": "2d5a4e63-076f-45db-a39e-85994a11a33c",
+        "username": "alice_smith",
+        "profilePicture": "https://randomuser.me/api/portraits/women/2.jpg"
+      }
+    ],
+    "login": {
+      "email": "lily.brown@example.com",
+      "password": "p@ssLily"
+    },
+    "location": {
+      "city": "Paris",
+      "country": "France",
+      "coordinates": {
+        "latitude": 48.8566,
+        "longitude": 2.3522
+      }
+    }
+  },
+  {
+    "_id": "6c52afab-8b72-4b4c-af8b-bf1e17b3e8ef",
+    "username": "chris_wood",
+    "fullName": "Chris Wood",
+    "bio": "Fitness enthusiast and health advocate.",
+    "profilePicture": "https://randomuser.me/api/portraits/men/5.jpg",
+    "followers": [],
+    "following": [],
+    "login": {
+      "email": "chris.wood@example.com",
+      "password": "fitlife2022"
+    },
+    "location": {
+      "city": "Los Angeles",
+      "country": "United States",
+      "coordinates": {
+        "latitude": 34.0522,
+        "longitude": -118.2437
+      }
+    },
+    "posts": [
+      {
+        "_id": "post1",
+        "imageUrl": "https://placekitten.com/807/607",
+        "caption": "Morning workout! 💪",
+        "likes": 800,
+        "comments": 30
+      },
+      {
+        "_id": "post2",
+        "imageUrl": "https://placekitten.com/808/608",
+        "caption": "Healthy meal prep! 🥗",
+        "likes": 600,
+        "comments": 20
+      }
+    ]
+  },
+  {
+    "_id": "KL5Dy",
+    "fullname": "shayel moalem",
+    "username": "shayel12",
+    "bio": "test test ",
+    "followers": [],
+    "following": [],
+    "login": {
+      "email": "shayelmomo@gmail.com",
+      "password": "s123"
+    },
+    "posts": []
+  }
+]

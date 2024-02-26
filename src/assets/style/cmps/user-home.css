@@ -1,0 +1,22 @@
+.user-home-container{
+    margin-inline-start: 16vw;
+    /* padding: 20px; */
+    width: 33vw;
+}
+.user-home-list{
+    padding-inline: 85px;
+}
+.post-img{
+    height: 500px;
+    border: 1px solid #e6dede;
+}
+
+.post-preview-username-disaplay span{
+    color: #00376b;
+    line-height: 18px;
+    font-weight: 600;
+    margin-inline-end: 7px;
+}
+.post-preview-username-disaplay span:hover{
+    cursor: pointer;
+}

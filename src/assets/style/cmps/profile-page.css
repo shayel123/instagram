@@ -1,0 +1,68 @@
+.profile-page {
+    margin-inline: 15vw;
+    padding: 20px;
+    padding-block-start: 30px;
+}
+
+
+.user-img {
+    transition: all 0.3s ease;
+
+}
+
+.user-img:hover {
+    filter: brightness(33%);
+}
+
+.user-img-container {
+    position: relative;
+}
+
+
+/* .img-info {
+    position: absolute;
+    color: red;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; 
+    opacity: 0;
+    background-color:black ;
+} */
+    /* transition: opacity 0.3s ease; */
+/*  */
+
+
+
+.space-div {
+    height: 30px;
+}
+
+.user-data-container {
+    margin-block-end: 20px;
+}
+
+.user-data-container span {
+    margin-inline-end: 40px;
+    font-size: 16px;
+    line-height: 18px;
+}
+
+.user-post-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
+}
+
+.display-profile-page {
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid rgb(188, 178, 178);
+    height: 52px;
+}
+
+.display-profile-page span {
+    margin-inline-end: 60px;
+    display: flex;
+    align-items: center;
+}

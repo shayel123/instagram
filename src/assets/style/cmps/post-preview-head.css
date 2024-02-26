@@ -1,0 +1,32 @@
+.post-owner-head{
+    display: flex;
+    padding-block: 10px;
+    align-items: center;
+    justify-content: space-between;
+}
+.post-head-user-data{
+    margin: 0;
+}
+.post-owner-head img {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    margin-inline-end: 12px;
+}
+.post-owner-head img:hover{
+    cursor: pointer;
+}
+.post-owner-head strong {
+    color: #00376b;
+    line-height: 18px;
+    font-weight: 600;
+    margin-inline-end: 7px;
+
+}
+.post-owner-head strong:hover{
+    cursor: pointer;
+}
+.post-owner-head span {
+    color:#737373;
+    margin-inline-end: 5px;
+}

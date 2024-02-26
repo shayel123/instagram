@@ -1,0 +1,32 @@
+.main-layout {
+  /* margin: 0 auto;
+  padding-left: 1.6rem;
+  padding-right: 1.6rem; */
+  display: flex;
+}
+
+.main-layout aside {
+  /* width: '200px'; */
+  width: 335px;
+  min-width: 335px;
+  padding-inline: 12px;
+  padding-block-start: 8px;
+  border-right: 1px solid rgb(188, 178, 178);
+  height: 100vh;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.main-layout main {
+  flex-grow: 1;
+  /* padding: 20px; */
+}
+
+@media (max-width:1265px){
+  .main-layout aside{
+    width: 72px;
+    min-width: 72px
+  }
+}

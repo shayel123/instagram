@@ -1,0 +1,20 @@
+/* Setup */
+@import 'setup/vars.css';
+@import 'setup/typography.css';
+
+/* Base */
+@import 'base/base.css';
+@import 'base/layout.css';
+@import 'base/helpers.css';
+
+
+/*cmps*/
+@import 'cmps/sidebar.css';
+@import 'cmps/profile-page.css';
+@import 'cmps/user-home.css';
+@import 'cmps/post-preview-head.css';
+@import 'cmps/post-preview-actions.css';
+@import 'cmps/post-preview-comment-input.css';
+@import 'cmps/story.css';
+@import 'cmps/profile-head.css';
+@import 'cmps/post-details.css';

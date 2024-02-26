@@ -1,0 +1,27 @@
+.post-preview-input-container{
+    margin-block-end: 12px;
+}
+
+.post-preview-input-container p{
+    color:#737373;
+}
+.post-preview-input-container p:hover{
+    cursor: pointer;
+}
+.input-element-post-preview{
+    display: flex;
+}
+.input-element-post-preview input{
+    flex-grow: 1;
+    border: none;
+    padding: 5px;
+}
+.input-element-post-preview input:focus{
+ outline: none;
+}
+.input-element-post-preview span{
+    color:#0095f6;
+}
+.input-element-post-preview span:hover{
+    cursor: pointer;
+}

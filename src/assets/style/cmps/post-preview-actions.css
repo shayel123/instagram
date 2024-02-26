@@ -1,0 +1,23 @@
+.post-actions{
+    display: flex;
+    justify-content: space-between;
+    padding-block: 7px;
+}
+.post-actions div img {
+    width:25px ;
+}
+.margin {
+    margin-inline-end: 10px;
+}
+.post-actions div:hover{
+    cursor: pointer;
+}
+.post-actions-like-counter{
+    color: #00376b;
+    line-height: 18px;
+    font-weight: 600;
+    margin-block-end: 7px;
+}
+.post-actions-like-counter:hover{
+    cursor: pointer;
+}
